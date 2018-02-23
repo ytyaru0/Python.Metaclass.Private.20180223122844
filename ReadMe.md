@@ -6,7 +6,7 @@ Pythonメタプログラミング学習。private変数とプロパティ(getter
 
 * [Raspberry Pi](https://ja.wikipedia.org/wiki/Raspberry_Pi) 3 Model B
     * [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) GNU/Linux 8.0 (jessie)
-        * [pyenv](https://github.com/pylangstudy/201705/blob/master/27/Python%E5%AD%A6%E7%BF%92%E7%92%B0%E5%A2%83%E3%82%92%E7%94%A8%E6%84%8F%E3%81%99%E3%82%8B.md) 1.0.10
+        * [pyenv](http://ytyaru.hatenablog.com/entry/2019/01/06/000000) 1.2.1
             * Python 3.6.4
 
 # ライセンス
